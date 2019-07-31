@@ -75,7 +75,7 @@ p {
 }
 
 .evDevBanner {
-  background-image: url('/Users/sarahkaplan/Desktop/projects/portfolioWireframe/resources/EvDevPortfolioPic copy.png');
+  background-image: url('../EvDevPortfolioPic copy.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
