@@ -62,7 +62,7 @@ p {
   margin-left: 5%;
   margin-right: 60%;
   text-align: left;
-  color: rgb(255, 255, 1);
+  color: #444;
 }
 
 .headline {
@@ -70,7 +70,7 @@ p {
   margin-left: 68%;
   margin-right: 5%;
   font-weight: bold;
-  color: rgb(255, 255, 1);
+  color: #444;
   
 }
 
@@ -79,6 +79,6 @@ p {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  background-color: rgb(22, 22, 161);
+  background-color: #aaa;
 }
 
